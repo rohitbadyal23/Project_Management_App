@@ -1,12 +1,12 @@
 # Project Management App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Project Management App that allows users to sign up, login and sign out. Create a new project, display the project in the dashbaord and allow any other user to comment on the project. 
 
-## Available Scripts
+## Technologies Used
 
-In the project directory, you can run:
+HTML, CSS, JavaScript, ReactJs, Firebase
 
-### `npm start`
+### App Deployed 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
