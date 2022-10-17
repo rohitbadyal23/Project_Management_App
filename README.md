@@ -6,10 +6,9 @@ A Project Management App that allows users to sign up, login and sign out. Creat
 
 HTML, CSS, JavaScript, ReactJs, Firebase
 
-### Website the App is deployed to
+### Live Verison
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+(INSERT URL)
 
 
 
