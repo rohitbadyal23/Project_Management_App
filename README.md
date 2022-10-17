@@ -1,6 +1,6 @@
 # Project Management App
 
-A Project Management App that allows users to sign up, login and sign out. Create a new project, display the project in the dashbaord and allow any other user to comment on the project. 
+A Project Management App that allows users to sign up, login and sign out. Create a new project, display the project in the dashbaord and allow any other user to comment on the project. Additionally, allows you to close the project.
 
 ## Technologies Used
 
